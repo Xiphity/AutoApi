@@ -1,5 +1,6 @@
 # AutoApi v6.4 (2021-2-21) ———— E5自动续期
-AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~~、~~AutoApiS(v4.0)~~、~~AutoApiP(v5.0)~~
+AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~~、~~AutoApiS(v4.0)~~、~~AutoApiP(v5.0)~~  
+
 [![Run Api.Read](https://github.com/Xiphity/AutoApi/actions/workflows/ApiOfRead.yml/badge.svg)](https://github.com/Xiphity/AutoApi/actions/workflows/ApiOfRead.yml)
 [![Run Api.Write](https://github.com/Xiphity/AutoApi/actions/workflows/ApiOfWrite.yml/badge.svg)](https://github.com/Xiphity/AutoApi/actions/workflows/ApiOfWrite.yml)
 [![Update Token](https://github.com/Xiphity/AutoApi/actions/workflows/UpdateToken.yml/badge.svg)](https://github.com/Xiphity/AutoApi/actions/workflows/UpdateToken.yml)
